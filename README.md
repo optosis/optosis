@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Alexander Wang, or @optosis
 - 👀 I’m proficient in python and java
-- 🌱 Currently learning sql
+- 🌱 Currently learning js, react, and sql
 - 💞️ I’m looking to collaborate on software and data analysis
 - 📫 How to reach me https://www.linkedin.com/in/aw01867/
