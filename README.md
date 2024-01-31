@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Alex Wang, or @optosis
-- 👀 I’m proficient in javascript, react, react-native, typescript, python and java
-- 🌱 Currently learning SQL, Kotlin
-- 💞️ I’m looking to collaborate on software and data analysis
-- 📫 How to reach me https://www.linkedin.com/in/aw01867/
+- 👀 I’m proficient in javascript, react, react-native, typescript, python, kotlin, and java
+- 🌱 Currently learning SQL
+- 💞️ I’m looking to collaborate on software and machine learning
+- 📫 How to reach me linkedin.com/in/aw01867/
